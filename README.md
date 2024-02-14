@@ -17,4 +17,4 @@ For the implementation, we used Python for both the backend and frontend of the 
 
 HOW TO USE PLOTIT?
 
-To use PlotIT, push the "Run Main" button("Run 'main'" button) and let the magic happen. The app has a simple GUI and lets the user choose the functionality he needs by pressing one of the app's buttons. TEXT TEXT
+To use PlotIT, push the "Run Main" button("Run 'main'" button) and let the magic happen. The app has a simple GUI and lets the user choose the functionality he needs by pressing one of the app's buttons.
