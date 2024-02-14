@@ -11,9 +11,9 @@ PlotIt is a plotting application in which the user can store data and get statis
 -extrapolate a point belonging to the linear regression graph;
 -displaying the working dataset at any point of plotting;
 -performing the best fitting for a dataset and drawing the graph accordingly;
-LANGUAGES AND TECHNOLOGIES WE USED
+LANGUAGES AND TECHNOLOGIES USED
 
-For the implementation, we used Python for both the backend and frontend of the app. Some of the libraries we used were PySimpleGUI, matplotlib.pyplot, matplotlib.backends.backend_tkagg, numpy, sklearn.linear_model and scipy.
+For the implementation, I used Python for both the backend and frontend of the app. Some of the libraries we used were PySimpleGUI, matplotlib.pyplot, matplotlib.backends.backend_tkagg, numpy, sklearn.linear_model and scipy.
 
 HOW TO USE PLOTIT?
 
